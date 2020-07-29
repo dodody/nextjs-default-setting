@@ -19,10 +19,10 @@
     "plugin:prettier/recommended"
   ],
   "parserOptions": {
+    "ecmaVersion": 7,
     "sourceType": "module",
-    "ecmaVersion": 2018,
     "ecmaFeatures": {
-      "jsx": true
+        "jsx": true
     }
   },
   "settings": {
